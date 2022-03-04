@@ -1,5 +1,6 @@
 # kool-epic-gamer-momentos
-Prufugeymsla fyrir skólann
+You want to be an epic gamer?
 
+Join the republic of gamers
 
-Köttur
+We play Overwatch, Bloons or/and other games
