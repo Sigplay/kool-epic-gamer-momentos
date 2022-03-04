@@ -1,3 +1,3 @@
-# Front page for school
+# Front page
 
 In this page you can find :
