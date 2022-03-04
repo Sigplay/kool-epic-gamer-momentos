@@ -1,3 +1,3 @@
-# Front page
+# An epic headline
 
-In this page you can find :
+## In this page you can find :
